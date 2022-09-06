@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@zowe/cli": "6.15.0",
-    "@zowe/zos-ftp-for-zowe-cli": "1.1.0",
+    "@andiknie/zos-ftp-for-zowe-cli": "2.0.2",
     "tmp": "0.2.1"
   },
   "devDependencies": {
